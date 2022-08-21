@@ -1,0 +1,87 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(0, 0, 0);
+    margin-top: 70px;
+
+}
+
+.container {
+    max-width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(99, 4, 4);
+    height: 800px;
+
+}
+
+.container img {
+    width: 40px;
+    list-style: none;
+}
+
+.container h1 {
+    color: #fff;
+    padding-top: 40px;
+    padding-left: 40px;
+}
+
+/* tenho que continuar alinhando as div parei aqui*/
+.container h2 {
+    color: #fff;
+    padding-top: 10px;
+    padding-left: 40px;
+}
+
+.container p {
+    color:#fff;
+    width: 800px;
+    padding-left: 200px;
+    margin-top: 130px;
+    font-size: 25px;
+}
+
+
+.container1 {
+    position: relative;
+    width: 500PX;
+}
+
+.container ul {
+    text-align: center;
+    margin-top: 200px;
+}
+
+.container1 li {
+    display: inline-block;
+    padding: 30px;
+    list-style: none;
+
+}
+
+.foto {
+    text-align: center;
+    color: rgb(190, 74, 74);
+    margin-top: -772px;
+    width: 600px;
+    height: 800px;
+    margin-left: auto;
+
+
+}
+
+.foto img {
+    background-color: rgb(60, 75, 82);
+    background-size: 1300px;
+    position: relative;
+    width:600px;
+    height: 800px;
+    border-radius: 20%;
+    
+
+
+
+}
